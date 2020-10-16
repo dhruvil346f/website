@@ -89,7 +89,7 @@ html{
     content: "";
      background-color: black;
      position: absolute;
-     background: url('../bg.jpg') no-repeat center center/cover;
+     background: url('bg.jpg') no-repeat center center/cover;
      top: 0;
      left: 0;
      height: 578px;
